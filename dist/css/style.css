@@ -1,0 +1,40 @@
+/* botão do form de cadastro */
+button.btn.btn-danger.right {
+    float: right;
+}
+/* imagem do usuário no form de cadastro */
+.widget-user .widget-user-image {
+    position: absolute;
+    top: -47px;
+    left: 6%;
+    margin-left: -45px;
+}
+/* título do form de cadastro */
+.widget-user .widget-user-username {
+    margin-top: 26px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: 300;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+    text-align: center;
+}
+/* btn update form create */
+.widget-user .widget-user-desc {
+    margin-top: -20px;
+    color: white;
+    margin-left: -3px;
+}
+/* espaçamento */
+.mt-section {
+    margin-top: 80px;
+}
+.space {
+    margin-bottom: 95px;
+}
+
+/* exibição do painel de cadastro na index */
+.widget-user-image.img-user-index {
+    position: relative;
+    top: -164px;
+    left: 4pc;
+}
